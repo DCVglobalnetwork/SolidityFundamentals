@@ -77,7 +77,10 @@ You can interact with the deployed contracts using a variety of tools, including
 ## Contributing
 Feel free to contribute to this project by submitting pull requests, reporting issues, or suggesting improvements.
 
-For detailed instructions on contributing, please refer to the CONTRIBUTING.md file.
+For detailed instructions on contributing, please refer to the [CONTRIBUTING.md](https://github.com/DCVglobalnetwork/SolidityFundamentals/blob/main/CONTRIBUTING.md) file.
+
+
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
